@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "percobaan 2.Plugins", "percobaan 2.Plugins.csproj", "{74CCF7E6-0834-0B94-C66A-7A44C71E7184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "percobaan 2", "percobaan 2.csproj", "{F3E91873-ACA1-C5C9-3F31-B3A3AE0AE298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "percobaan 2.Editor", "percobaan 2.Editor.csproj", "{3122DD6C-F398-B437-730E-135B057F3FB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74CCF7E6-0834-0B94-C66A-7A44C71E7184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74CCF7E6-0834-0B94-C66A-7A44C71E7184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74CCF7E6-0834-0B94-C66A-7A44C71E7184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74CCF7E6-0834-0B94-C66A-7A44C71E7184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E91873-ACA1-C5C9-3F31-B3A3AE0AE298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E91873-ACA1-C5C9-3F31-B3A3AE0AE298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E91873-ACA1-C5C9-3F31-B3A3AE0AE298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E91873-ACA1-C5C9-3F31-B3A3AE0AE298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3122DD6C-F398-B437-730E-135B057F3FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3122DD6C-F398-B437-730E-135B057F3FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3122DD6C-F398-B437-730E-135B057F3FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3122DD6C-F398-B437-730E-135B057F3FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
